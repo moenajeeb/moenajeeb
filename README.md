@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/moenajeeb/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/moenajeeb/azure-network-protocols)
+  - [Network file shares and permissions Groups](https://github.com/moenajeeb/file-shares)
+
 
 <h2>🤳Connect with me:</h2>
 
